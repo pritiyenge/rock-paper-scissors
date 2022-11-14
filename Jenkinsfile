@@ -1,5 +1,5 @@
 node {
-   stage('download') 
+stage('download') 
 {
     git 'https://github.com/rakya07/multibranch.git'
 }
