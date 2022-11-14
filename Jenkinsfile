@@ -1,7 +1,7 @@
 node {
    stage('download') 
 {
-    git 'https://github.com/rakya07/mvn.git'
+    git 'https://github.com/rakya07/multibranch.git'
 }
 stage('build') 
 {
